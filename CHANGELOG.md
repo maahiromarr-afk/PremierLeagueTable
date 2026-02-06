@@ -7,6 +7,13 @@ and this project adheres to [Calendar Versioning](https://calver.org/) of
 the following form: YYYY.0M.0D.
 
 ## [Unreleased]
+## 2026.02.06
+
+### Added
+- Designed a PremierLeagueTable component
+- Designed a PremierLeagueMatchHistory component
+- Designed a PremierLeagueTeamRoster component
+
 
 - Disabled an aspect of the coderunner extension
 - Fixed broken links
