@@ -13,6 +13,7 @@ the following form: YYYY.0M.0D.
 - Designed a PremierLeagueTable component
 - Designed a PremierLeagueMatchHistory component
 - Designed a PremierLeagueTeamRoster component
+- Designed abstract class for PremierLeagueTable component
 
 
 - Disabled an aspect of the coderunner extension
