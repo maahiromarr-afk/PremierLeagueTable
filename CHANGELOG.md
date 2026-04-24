@@ -16,7 +16,10 @@ the following form: YYYY.0M.0D.
 - Designed abstract class for PremierLeagueTable component
 - Designed kernel implementation for PremierLeagueTable component
 - Changed design to include a map-based representation for team points
+- Designed test suite for PremierLeagueTable component
+- Designed two different use cases for PremierLeagueTable component
 
+  Added finishing touches, testing, use cases, and reflection
 - Disabled an aspect of the coderunner extension
 - Fixed broken links
 - Disabled AI features globally
