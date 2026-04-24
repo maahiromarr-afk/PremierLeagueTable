@@ -1,10 +1,10 @@
 # Portfolio Part 5: Kernel Implementation
 
-- **Name**: Maahir Omar
-- **Dot Number**:Omar.196
+-  Name**: Maahir omar
+- **Dot Number**:Omar. 196
 - **Due Date**:
 
-## Assignment Overview
+## Assignment   Overview
 
 At this point in the portfolio project, the only thing left as far as
 implementation is concerned is the kernel implementation. Therefore, you can
@@ -55,5 +55,4 @@ examples of these.
 > and interpreted (i.e., by correspondence).
 
 I used a map to store the table. Each team is a key, and its points are the value. This makes it easy to check if a team exists, add teams, and update points after matches. The convention is that team names are not empty and points are never negative. The correspondence is that each key represents a team, and the value is that team’s current points.
-
 
