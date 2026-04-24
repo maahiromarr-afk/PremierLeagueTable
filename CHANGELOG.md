@@ -14,11 +14,13 @@ the following form: YYYY.0M.0D.
 - Designed a PremierLeagueMatchHistory component
 - Designed a PremierLeagueTeamRoster component
 - Designed abstract class for PremierLeagueTable component
-
+- Designed kernel implementation for PremierLeagueTable component
+- Changed design to include a map-based representation for team points
 
 - Disabled an aspect of the coderunner extension
 - Fixed broken links
 - Disabled AI features globally
+
 
 ## [2024.12.30]
 
